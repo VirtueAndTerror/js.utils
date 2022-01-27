@@ -1,1 +1,1 @@
-# js.utils
+# utils.js
